@@ -132,5 +132,12 @@ Outputs are stored in `weekly_ai_reports/`.
 
 ---
 
+## 7. Work-in-Progress Notice
+The current code and generated outputs **do not represent the final version of the project**. Several modules - including **image preprocessing**, **food recognition**, and **portion estimation** - are undergoing revision, and alternative approaches (e.g., segmentation-based preprocessing) are actively being tested. As a result:
+- Some results are preliminary.
+- Certain functions may be placeholders or experimental variations.
+- Output CSVs and reports should be interpreted as **intermediate artifacts** rather than final results.
 
+The repository will continue to evolve as the final methods and evaluation workflow are refined.
 
+---
