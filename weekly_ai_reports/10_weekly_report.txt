@@ -1,0 +1,55 @@
+#### 1. Weekly Calorie Overview
+
+*   **Total Weekly Calorie Intake:** 14542.59 kcal
+*   **Average Daily Calorie Intake:** 2077.51 kcal
+*   **Estimated Daily Calorie Needs (TDEE):** 1407.58 kcal
+
+**Analysis:** Your average daily calorie intake of 2077.51 kcal is significantly higher than your estimated daily energy expenditure of 1407.58 kcal, given your demographics (45F, 1.47m, 55kg, BMI 25.5) and low activity levels. This consistent caloric surplus is a primary factor contributing to your current BMI, which falls into the overweight category.
+
+#### 2. Eating Pattern Insights
+
+*   **Calorie Distribution:**
+    *   Breakfast: Average 534.62 kcal
+    *   Lunch: Average 628.31 kcal
+    *   Dinner: Average 900.46 kcal
+
+*   **Daily Breakdown:**
+    *   Day 1: B: 163 kcal, L: 412 kcal, D: 1946 kcal (Total: 2521 kcal)
+    *   Day 2: B: 1131 kcal, L: 666 kcal, D: 1981 kcal (Total: 3778 kcal)
+    *   Day 3: B: 564 kcal, L: 212 kcal, D: 396 kcal (Total: 1172 kcal)
+    *   Day 4: B: 681 kcal, L: 143 kcal, D: 32 kcal (Total: 855 kcal)
+    *   Day 5: B: 661 kcal, L: 1671 kcal, D: 228 kcal (Total: 2559 kcal)
+    *   Day 6: B: 169 kcal, L: 294 kcal, D: 1079 kcal (Total: 1541 kcal)
+    *   Day 7: B: 454 kcal, L: 1002 kcal, D: 661 kcal (Total: 2117 kcal)
+
+**Analysis:** Your eating patterns show significant variability in daily calorie intake, ranging from 855 kcal (Day 4) to 3778 kcal (Day 2). Dinner often contributes the largest portion of daily calories, with some instances of very high-calorie dinners (e.g., Day 1, Day 2). Lunch also shows high calorie values on certain days (e.g., Day 5, Day 7). This inconsistency and often high caloric load per meal can make calorie management challenging.#### 3. Ingredient-Based Evaluation
+
+*   **Top 5 Highest Calorie Ingredients (Weekly Total):**
+    *   steak slices: 1161.00 kcal
+    *   spring roll wrapper: 1098.00 kcal
+    *   chicken: 1155.60 kcal
+    *   beef patty: 707.20 kcal
+    *   pizza crust: 738.00 kcal
+
+**Analysis:** Your diet frequently includes high-calorie ingredients such as 'steak slices', 'spring roll wrapper', 'beef patty', 'fried egg', and 'pizza crust'. These ingredients, often associated with higher fat content or refined carbohydrates, contribute significantly to your overall calorie intake. The presence of rich sauces (e.g., 'butter sauce', 'japanese mayonnaise', 'peanut sauce') and cheese further increases the caloric density of your meals. There is a noticeable lack of diverse whole foods, particularly vegetables and lean protein sources, in significant quantities across meals.
+
+#### 4. Lifestyle Interaction Analysis
+
+*   **Average Daily Steps:** 2476 steps (Low activity)
+*   **Average Daily Sleep:** 5.6 hours (Insufficient)
+*   **Average Daily Screen Time:** 6.5 hours (High)
+*   **BMI:** 25.5 (Overweight)
+
+**Analysis:** Your lifestyle metrics indicate a sedentary pattern with low average daily steps, significantly below the recommended 7,000-10,000 steps for general health. Your sleep duration is consistently insufficient, averaging 5.6 hours, which can negatively impact metabolism, appetite-regulating hormones, and energy levels, potentially leading to increased calorie consumption. High screen time may also correlate with reduced physical activity and increased sedentary snacking. The combination of high caloric intake and low physical activity directly contributes to your overweight BMI.
+
+#### 5. Personalized Weekly Recommendations
+
+1.  **Calorie Management:** Aim for a moderate calorie deficit to support healthy weight management. Consider reducing your average daily intake by 300-500 kcal from your current average, targeting closer to your estimated TDEE of 1408 kcal.
+2.  **Balanced Meal Structure:** Distribute calories more evenly throughout the day to avoid very large dinners. Focus on nutrient-dense breakfasts and lunches to sustain energy and reduce evening hunger.
+3.  **Ingredient Swaps:**
+    *   Reduce consumption of high-calorie items like 'steak slices', 'spring roll wrapper', 'beef patty', 'pizza crust', and rich sauces.
+    *   Incorporate more lean proteins (e.g., grilled chicken breast, fish, tofu), whole grains (e.g., quinoa, brown rice), and a wider variety of vegetables (e.g., broccoli, spinach, bell peppers) into every meal.
+    *   Opt for healthier cooking methods (baking, grilling, steaming) over frying.
+4.  **Increase Physical Activity:** Gradually increase your daily step count. Aim for at least 30 minutes of moderate-intensity activity most days of the week, working towards 7,000-10,000 steps daily.
+5.  **Prioritize Sleep:** Establish a consistent sleep schedule, aiming for 7-9 hours of quality sleep per night. Reduce screen time before bed to improve sleep hygiene.
+6.  **Mindful Eating:** Be aware of portion sizes, especially for calorie-dense foods. Practice mindful eating to recognize hunger and fullness cues.

@@ -1,0 +1,35 @@
+#### 1. Weekly Calorie Overview
+
+Your average daily calorie intake over the past week was approximately **2077 kcal**. This is above your estimated Basal Metabolic Rate (BMR) of 1285 kcal and your estimated Total Daily Energy Expenditure (TDEE) of approximately 1767 kcal (for a lightly active individual). Your total weekly calorie intake was **14543 kcal**.
+
+There were significant daily fluctuations in calorie intake, ranging from a low of 855 kcal on Day 4 to a high of 3778 kcal on Day 2. On average, dinner contributed the most calories (903 kcal), followed by lunch (628 kcal), and then breakfast (546 kcal).
+
+#### 2. Eating Pattern Insights
+
+Your eating patterns show considerable inconsistency. Days 1 and 2 featured very high-calorie dinners (over 1900 kcal each), while Day 4 had an exceptionally low-calorie dinner (31.5 kcal). This suggests a lack of consistent meal planning and portion control. The tendency for dinner to be the largest meal, particularly with high-calorie options, could contribute to overall higher daily intake. The wide range in daily calorie consumption indicates an unstable dietary routine.
+
+#### 3. Ingredient-Based Evaluation
+
+Analysis of your ingredient consumption reveals a frequent intake of calorie-dense items. Key contributors to your overall calorie intake include:
+
+*   **High-Calorie Density:** Steak slices (1161 kcal), spring roll wrapper (1098 kcal), fried egg (903 kcal), pizza crust (738 kcal), beef patty (707 kcal), cheese (679 kcal), cured meat (557 kcal), and butter sauce (470 kcal).
+*   **Frequent Ingredients:** Burger buns, beef patties, cheese, and eggs appeared multiple times throughout the week.
+*   **Processed Foods:** The presence of pizza, cured meats, fried items, and various sauces suggests a reliance on processed or restaurant-style meals, which often contain higher levels of unhealthy fats, sodium, and added sugars.
+
+#### 4. Lifestyle Interaction Analysis
+
+Your lifestyle metrics indicate several areas for improvement:
+
+*   **Physical Activity:** Your average daily steps were approximately 2800, which is significantly below recommended guidelines for general health and weight management (typically 7,000-10,000 steps). This low activity level, combined with a calorie intake often exceeding your TDEE, can lead to a positive energy balance.*   **Sleep:** Your sleep duration was highly inconsistent and critically low, averaging only about 4 hours per night. Chronic sleep deprivation can negatively impact metabolism, appetite-regulating hormones, and energy levels, potentially influencing food choices and calorie intake.
+*   **Screen Time:** Your average daily screen time was exceptionally high at approximately 16 hours. High screen time is associated with sedentary behavior and can displace physical activity and adequate sleep, further exacerbating the issues identified.
+*   **Heart Rate:** Your resting heart rate remained constant at 68 bpm, which is within a healthy range but does not provide further insights into daily variations in activity or stress.
+
+#### 5. Personalized Weekly Recommendations
+
+Based on this analysis, the following recommendations are provided to optimize your nutrition and overall well-being:
+
+1.  **Calorie Consistency & Balance:** Aim for a more consistent daily calorie intake closer to your estimated TDEE (approx. 1700-1800 kcal). Distribute your calories more evenly across breakfast, lunch, and dinner to avoid extreme fluctuations and large, calorie-dense evening meals.
+2.  **Enhance Nutrient Density:** Prioritize whole, unprocessed foods. Increase your intake of lean proteins (e.g., grilled chicken, fish, legumes), complex carbohydrates (e.g., whole grains, brown rice, quinoa), and a wide variety of fruits and vegetables. Reduce consumption of high-calorie density ingredients like excessive cheese, cured meats, fried foods, and rich sauces.
+3.  **Improve Sleep Hygiene:** Establish a regular sleep schedule, aiming for 7-9 hours of quality sleep per night. Create a relaxing bedtime routine and ensure your sleep environment is conducive to rest.
+4.  **Increase Physical Activity:** Gradually increase your daily step count, targeting at least 7,000 steps per day. Incorporate moderate-intensity exercise for at least 150 minutes per week (e.g., brisk walking, cycling, swimming).
+5.  **Manage Screen Time:** Significantly reduce non-essential screen time, especially in the hours leading up to bedtime. This can improve sleep quality and free up time for physical activity and other beneficial habits.

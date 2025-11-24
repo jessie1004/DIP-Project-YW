@@ -1,0 +1,39 @@
+#### 1. Weekly Calorie Overview
+
+Over the past 7 days, your total calorie intake was approximately **14,542.79 kcal**, averaging **2,077.54 kcal per day**.*   **Average Breakfast Kcal:** 546.16 kcal
+*   **Average Lunch Kcal:** 628.31 kcal
+*   **Average Dinner Kcal:** 903.05 kcal
+
+For a 27-year-old male with your demographics (BMI 20.7, Height 1.73m, Weight 62.0kg), your estimated Total Daily Energy Expenditure (TDEE) is approximately 2100-2200 kcal, assuming a lightly active lifestyle. Your average intake is slightly below this estimate, but there are significant daily fluctuations.
+
+#### 2. Eating Pattern Insights
+
+Your eating patterns show considerable variability in daily calorie intake, ranging from a low of 855.05 kcal (Day 4) to a high of 3777.58 kcal (Day 2).
+*   **Dinner Dominance:** Dinner frequently accounts for the largest portion of your daily calories, sometimes exceeding 50% of the day's total (e.g., Day 1: 1946 kcal out of 2521 kcal; Day 2: 1980 kcal out of 3777 kcal).
+*   **Inconsistent Meal Sizes:** Both breakfast and lunch show wide variations in calorie content, indicating a lack of consistent meal structure or portion control. Day 4, in particular, shows a very low overall intake, with a minimal dinner.
+
+#### 3. Ingredient-Based Evaluation
+
+Your diet includes a mix of ingredients, with a notable presence of calorie-dense items:
+*   **High-Fat/Processed Meats:** Frequent consumption of beef patty, steak slices, cured meat, bacon, ground pork, and fried preparations (fried egg, fried fish) contributes significantly to calorie intake.
+*   **Refined Carbohydrates:** Items like waffles, burger buns, toasted bread, pizza crust, sushi rice, rice noodles, steamed buns, and spring roll wrappers are common, suggesting a higher intake of refined grains.
+*   **Calorie-Dense Sauces & Desserts:** Japanese mayonnaise, unagi sauce, butter sauce, sweet chili sauce, peanut sauce, chocolate soft serve ice cream, and dipping sauces add substantial calories, often from fats and sugars.*   **Limited Whole Foods:** While some vegetables (lettuce, tomatoes, onions, cabbage, carrots, bok choy, bean sprouts) and herbs are present, they appear in relatively small quantities compared to other ingredients. There is a general lack of diverse whole fruits and vegetables as primary components of meals.
+
+#### 4. Lifestyle Interaction Analysis
+
+Your lifestyle metrics reveal areas for improvement that interact with your dietary patterns:
+*   **Sedentary Activity Level:** Your average daily steps (approx. 1,507 steps) are significantly below recommended guidelines, indicating a largely sedentary lifestyle. This means your body requires fewer calories for energy expenditure, making high-calorie days more likely to lead to a calorie surplus.*   **Variable Sleep Quality:** While your average sleep duration is around 7.47 hours, there were significant drops on Day 6 (5 hours) and Day 7 (4.3 hours). Inadequate sleep can negatively impact hormone regulation (ghrelin and leptin), potentially leading to increased appetite and cravings for high-calorie, less nutritious foods.
+*   **High Screen Time:** Your average daily screen time (approx. 7.86 hours) is substantial. High screen time is often associated with prolonged sedentary behavior and can contribute to mindless eating, where food consumption is not driven by hunger cues.
+
+#### 5. Personalized Weekly Recommendations
+
+Based on this analysis, the following recommendations are provided to optimize your nutrition and overall well-being:
+
+1.  **Stabilize Calorie Intake:** Aim for a more consistent daily calorie intake, closer to your estimated TDEE of 2100-2200 kcal, by distributing calories more evenly across meals. Avoid extreme fluctuations between very high and very low intake days.
+2.  **Enhance Meal Composition:**
+    *   **Prioritize Whole Foods:** Increase your intake of diverse fruits, vegetables, and whole grains at every meal. For example, add a large side salad with lunch/dinner, or berries to your breakfast.
+    *   **Choose Lean Proteins:** Opt for leaner protein sources such as grilled chicken breast, fish (non-fried), legumes, or tofu, reducing reliance on high-fat processed meats.
+    *   **Mindful Fat & Sugar Intake:** Be conscious of the calorie contribution from sauces, cheeses, and desserts. Explore healthier alternatives or reduce portion sizes of high-fat/high-sugar condiments and treats.
+3.  **Increase Physical Activity:** Gradually increase your daily steps. Aim to incorporate at least 30 minutes of moderate-intensity physical activity most days of the week, working towards a goal of 7,000-10,000 steps daily. This will increase your energy expenditure and improve overall health.
+4.  **Improve Sleep Hygiene:** Establish a consistent sleep schedule, going to bed and waking up around the same time each day, even on weekends. Reduce screen time at least an hour before bed to promote better sleep quality and duration (aim for 7-9 hours).
+5.  **Practice Mindful Eating:** Pay attention to your hunger and fullness cues. Avoid eating while distracted by screens, as this can lead to overconsumption. Savor your meals and eat slowly.

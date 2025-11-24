@@ -1,0 +1,35 @@
+#### 1. Weekly Calorie Overview
+Over the past 7 days, your total calorie intake was **15142.59 kcal**, averaging **2163.23 kcal per day**. Your estimated Total Daily Energy Expenditure (TDEE) for maintenance, considering your demographics and activity level, is approximately **2275.63 kcal**. Your daily intake fluctuated significantly, ranging from a low of **855.05 kcal (Day 4)** to a high of **3777.58 kcal (Day 2)**.
+
+#### 2. Eating Pattern Insights
+Your average meal calorie distribution was:
+*   **Breakfast:** 554.76 kcal
+*   **Lunch:** 621.16 kcal
+*   **Dinner:** 987.96 kcal
+
+Dinner consistently represented the largest meal, often exceeding 1000 kcal, with Day 1 and Day 2 dinners being particularly high (1946.25 kcal and 1980.53 kcal respectively). There's a notable inconsistency in daily calorie intake, with Day 2 being significantly above your estimated TDEE and Day 4 being considerably below, suggesting irregular eating patterns or significant variations in portion sizes.
+
+#### 3. Ingredient-Based Evaluation
+Your diet frequently included high-calorie ingredients. The top 5 contributors to your weekly calorie intake were:
+1.  **Steak slices:** 1161.0 kcal
+2.  **Spring roll wrapper:** 1098.0 kcal
+3.  **Chicken:** 1155.6 kcal (combined from different entries)
+4.  **Beef patty:** 707.2 kcal (combined from different entries)
+5.  **Pizza crust:** 738.0 kcal
+
+Other notable high-calorie items include fried eggs, butter sauce, cheese, cured meat, and rice noodles. While protein sources like beef and chicken are present, the frequent inclusion of high-fat meats, processed items (burger buns, pizza crust, spring roll wrappers), and calorie-dense sauces (butter sauce, Japanese mayonnaise, peanut sauce) contributes significantly to overall calorie load. Vegetable intake appears limited in several meals.
+
+#### 4. Lifestyle Interaction Analysis
+Your lifestyle metrics over the week indicate:
+*   **Average Steps:** 2743 steps/day, indicating a largely sedentary lifestyle.
+*   **Average Sleep:** 436.7 minutes/day (approx. 7.28 hours), which is generally adequate, though Day 6 (400 min / 6.67 hours) was shorter.
+*   **Average Heart Rate:** 79.4 bpm, within a typical resting range, but with some variability.
+*   **Average Screen Time:** 508.7 minutes/day (approx. 8.48 hours), which is considerably high.
+
+There isn't a clear direct correlation between high-calorie days and increased physical activity; for instance, Day 2, your highest calorie day, also had one of your lowest step counts (1592 steps). High screen time might contribute to a sedentary lifestyle and potentially impact sleep quality on certain days. Your BMI of 25.9 classifies you as overweight, which aligns with the observed low physical activity and inconsistent, sometimes high, calorie intake.
+
+#### 5. Personalized Weekly Recommendations
+1.  **Calorie Consistency & Moderation:** Aim for a more consistent daily calorie intake closer to your estimated TDEE (approx. 2275 kcal) or slightly below for gradual weight management. Avoid extreme fluctuations between very high and very low intake days.
+2.  **Balanced Meal Composition:** Focus on increasing vegetable and fiber intake at each meal. Swap high-calorie sauces for lighter alternatives and choose leaner protein sources. For instance, reduce portions of high-fat meats and processed items like pizza crusts and spring roll wrappers.3.  **Increase Physical Activity:** Gradually increase your daily step count. Aim for at least 7,000-10,000 steps per day. Incorporate structured exercise (e.g., brisk walking, jogging, strength training) 3-5 times a week to improve cardiovascular health and support weight management.
+4.  **Mindful Eating & Screen Time:** Be mindful of your high screen time. Consider reducing screen exposure, especially before bedtime, to potentially improve sleep quality. Practice mindful eating to better recognize hunger and fullness cues, which can help regulate calorie intake.
+5.  **Hydration:** Ensure adequate water intake throughout the day, as this can support metabolism and satiety.

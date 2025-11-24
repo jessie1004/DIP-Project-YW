@@ -1,0 +1,53 @@
+#### 1. Weekly Calorie Overview
+
+*   **Average Daily Calorie Intake:** 2077.54 kcal
+*   **Total Weekly Calorie Intake:** 14542.79 kcal
+*   **Calorie Distribution by Meal:**
+    *   Breakfast: 546.16 kcal (26.3%)
+    *   Lunch: 628.31 kcal (30.2%)
+    *   Dinner: 903.05 kcal (43.5%)
+*   **Estimated Basal Metabolic Rate (BMR):** 1951.25 kcal (calculated using Mifflin-St Jeor Equation for a 27-year-old male, 1.73m, 100kg)
+*   **Estimated Total Daily Energy Expenditure (TDEE) (Lightly Active):** 2682.9 kcal (BMR x 1.375)
+
+**Analysis:** Your average daily calorie intake is below your estimated TDEE, which could suggest a calorie deficit. However, your BMI of 33.4 kg/m² indicates obesity. This discrepancy may arise from underreporting of food intake, a lower actual activity level than estimated, or metabolic factors. Dinner consistently contributes the largest portion of your daily calories.
+
+#### 2. Eating Pattern Insights
+
+*   **Meal Frequency:** Consistent consumption of three main meals daily.
+*   **Calorie Fluctuation:** Significant daily calorie variability, ranging from 855.05 kcal (Day 4) to 3777.58 kcal (Day 2). Such fluctuations can hinder consistent progress towards health goals.
+*   **Dinner Dominance:** Dinner is frequently the most calorie-dense meal, often surpassing the combined caloric content of breakfast and lunch.
+*   **High/Low Intake Days:** Day 2 and Day 1 showed notably high calorie intake, while Day 4 and Day 3 were significantly low, potentially leading to nutrient gaps or increased hunger.
+
+#### 3. Ingredient-Based Evaluation
+
+Your weekly diet frequently includes calorie-dense ingredients:
+
+*   **High-Calorie Staples:** Recurring ingredients include beef patties, steak, various cheeses, burger buns, fried eggs, and rich sauces (e.g., butter sauce, Japanese mayonnaise, peanut sauce).
+*   **Refined Carbohydrates:** Waffles, toasted bread, pizza crust, sushi rice, and spring roll wrappers are prominent. Notably, the spring roll wrapper on Day 5 contributed a substantial 1098 kcal, indicating a high-calorie preparation.
+*   **Limited Vegetable Intake:** While some vegetables are present (lettuce, tomatoes, onions, bok choy), their quantity and variety appear insufficient relative to the overall meal composition. Day 4's dinner, consisting mainly of cherry tomatoes, highlights an imbalanced meal.
+*   **High Fat Content:** The frequent use of fried eggs, bacon, cheese, and rich sauces suggests a diet potentially high in saturated and unhealthy fats.
+
+#### 4. Lifestyle Interaction Analysis
+
+*   **Sleep:** Your average sleep of 486.4 minutes (approx. 8.1 hours) is generally adequate, though Day 7's 314 minutes (5.2 hours) is significantly low. Inadequate sleep can negatively impact appetite-regulating hormones and food choices.
+*   **Steps:** An average of 4159 steps per day is below the recommended range for optimal health and weight management (typically 7,000-10,000+). Day 4 was particularly sedentary (690 steps). Lower activity levels reduce your TDEE, making dietary management more critical.
+*   **Heart Rate:** Your average resting heart rate of 79.6 bpm is at the higher end of a healthy range, which can be influenced by diet, activity, and overall health status.
+*   **Screen Time:** An average of 456.4 minutes (approx. 7.6 hours) of daily screen time is substantial and often correlates with sedentary behavior and increased opportunities for mindless eating.
+
+**Interactions:** Days with lower physical activity (e.g., Day 2 with 2333 steps and 3777 kcal intake) show a notable mismatch between energy expenditure and intake. Chronic sleep deprivation, as seen on Day 7, can also influence food cravings and dietary choices.
+
+#### 5. Personalized Weekly Recommendations
+
+Considering your demographics (27M, BMI 33.4, 100kg), dietary patterns, and lifestyle, the following recommendations are provided:
+
+1.  **Calorie Deficit for Weight Management:** To address your BMI, aim for a consistent daily calorie intake of approximately 1800-2000 kcal, focusing on nutrient-dense foods. Reduce the significant daily calorie fluctuations observed.
+2.  **Balanced Macronutrient Distribution:** Rebalance your meal structure to distribute calories more evenly throughout the day. Reduce the calorie load of dinner and consider making lunch a more substantial, nutrient-rich meal.
+3.  **Enhance Whole Food Intake:**
+    *   **Lean Protein:** Incorporate leaner protein sources such as chicken breast, fish (beyond salmon), legumes, and plant-based proteins to replace some high-fat meats.
+    *   **Increased Vegetables:** Significantly increase the variety and quantity of non-starchy vegetables at every meal, aiming for at least half your plate at lunch and dinner. This will boost satiety and nutrient intake with fewer calories.
+    *   **Whole Grains:** Opt for whole-grain alternatives (e.g., brown rice, whole-wheat bread, quinoa) over refined carbohydrates.
+4.  **Mindful Fat Choices:** Be aware of high-fat ingredients in sauces and fried foods. Prioritize healthier cooking methods like grilling, baking, steaming, or stir-frying with minimal oil.
+5.  **Increase Physical Activity:** Gradually increase your daily steps, targeting 7,000-8,000 steps initially, with a long-term goal of 10,000+. Integrate structured exercise (e.g., brisk walking, cycling, strength training) 3-5 times per week to improve cardiovascular health and metabolic rate.
+6.  **Prioritize Sleep Hygiene:** Establish a consistent sleep schedule and aim for 7-9 hours of quality sleep nightly. This supports hormonal balance crucial for appetite regulation and overall well-being.
+7.  **Reduce Sedentary Screen Time:** Limit prolonged screen time, especially before bed. Engage in non-screen activities to reduce sedentary behavior and promote better sleep.
+8.  **Adequate Hydration:** Ensure consistent water intake throughout the day, which can support satiety and metabolic functions.

@@ -1,0 +1,38 @@
+#### 1. Weekly Calorie Overview
+
+Over the past 7 days, your total calorie intake was **14,542.79 kcal**, averaging **2,077.54 kcal per day**. There was significant daily variability, with a minimum intake of **855.05 kcal** on Day 4 and a maximum of **3,777.58 kcal** on Day 2.
+
+#### 2. Eating Pattern Insights
+
+Your calorie distribution across meals shows a notable pattern:
+*   **Breakfast:** 26.29% (Average: 546.16 kcal)
+*   **Lunch:** 30.24% (Average: 628.31 kcal)
+*   **Dinner:** 43.47% (Average: 903.05 kcal)
+
+Dinner consistently accounted for the largest portion of your daily calories, often exceeding lunch and breakfast combined. This pattern suggests a tendency towards heavier evening meals. On Day 1 and Day 2, dinner alone contributed over 1900 kcal, indicating very substantial evening consumption. Conversely, Day 4 showed an extremely low dinner intake (31.5 kcal).
+
+#### 3. Ingredient-Based Evaluation
+
+Your diet frequently included high-calorie ingredients, particularly from animal proteins, refined carbohydrates, and rich sauces. Key contributors to your calorie intake were:
+*   **High-Calorie Items:** Steak slices (1161 kcal on Day 1), spring roll wrapper (1098 kcal on Day 5), chicken (963 kcal on Day 7), pizza crust (738 kcal on Day 2), rice noodles (720 kcal on Day 6), cheese (595.8 kcal on Day 2), cured meat (556.8 kcal on Day 2), fried egg (492.6 kcal on Day 2), butter sauce (469.7 kcal on Day 2), and meat patty (464.0 kcal on Day 2).
+*   **Common Themes:** Frequent consumption of beef (patty, steak, ground), cheese, fried items, and rich sauces (Japanese mayonnaise, unagi sauce, butter sauce, sweet chili, peanut sauce). Refined carbohydrates like burger buns, pizza crust, sushi rice, and spring roll wrappers also featured prominently.
+
+#### 4. Lifestyle Interaction Analysis
+
+Your demographics (43-year-old male, BMI 23.4) indicate a healthy weight. Your average daily steps were **7,306**, and your average resting heart rate was **69.57 bpm**, both within healthy ranges.
+
+However, your sleep patterns showed significant variability, averaging **451.86 minutes (approx. 7.5 hours)** but ranging from a very low **252 minutes (4.2 hours)** on Day 4 to an exceptionally high **825 minutes (13.75 hours)** on Day 3. Screen time averaged **231.57 minutes (approx. 3.86 hours)** daily.
+
+There appears to be an inverse relationship between sleep and calorie intake on extreme days: Day 4, with the lowest calorie intake, also had the lowest sleep duration. Day 2, with the highest calorie intake, had below-average sleep. This suggests that inconsistent sleep might influence your dietary choices or appetite regulation. No direct strong correlation was observed between steps, heart rate, or screen time and calorie intake.
+
+#### 5. Personalized Weekly Recommendations
+
+1.  **Calorie Consistency:** Aim for more consistent daily calorie intake. The wide fluctuations (855 kcal to 3777 kcal) can impact energy levels and metabolic stability. Distribute calories more evenly throughout the week.
+2.  **Meal Rebalancing:** Shift some calories from dinner to earlier meals. A lighter dinner can improve digestion and sleep quality. Consider making lunch your largest meal or balancing breakfast and lunch more substantially.
+3.  **Nutrient Density & Ingredient Choices:** While enjoying your preferred foods, consider incorporating more nutrient-dense options.
+    *   **Proteins:** Explore leaner protein sources like grilled chicken breast, fish, or plant-based proteins more frequently.
+    *   **Carbohydrates:** Opt for whole grains (e.g., brown rice, whole-wheat bread) over refined options.
+    *   **Fats:** Moderate intake of high-fat sauces, cheeses, and fried items. Incorporate healthy fats from avocados, nuts, and olive oil.
+    *   **Fiber:** Increase intake of fruits, vegetables, and legumes to boost fiber, which aids satiety and digestive health.
+4.  **Sleep Hygiene:** Prioritize consistent sleep. Aim for 7-9 hours of quality sleep each night. Establishing a regular sleep schedule can positively impact appetite regulation and overall well-being.
+5.  **Mindful Eating:** Be mindful of your eating habits, especially given your screen time. Try to eat meals without distractions to better recognize hunger and fullness cues, which can help manage portion sizes and overall intake.
