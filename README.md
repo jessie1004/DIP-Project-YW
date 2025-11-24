@@ -23,6 +23,7 @@ Nowadays, the rise of diet-related health issues such as obesity, diabetes, and 
 The raw data is divided into two components. The first part includes users' demographic attributes (Age, Gender, Weight, Height, BMI) and their lifettyle-related data (Step Count Distance Travel (Km), Blood Pressure Heart Rate (BPM), Blood Oxygen Level, Sleep Duration (minutes), Screen Time (minute), Earphone Time (minute)), along with 7 days of meal logs. The second part contains 20 food images correponding to the food label in the first dataset. In this paper, it combines two parts together to simulate users' dietary structure.
 
 **User lifestyle dataset:** https://www.kaggle.com/datasets/mdimammahdi/smart-healthcare-dailylife-dataset-wearable-device
+
 **Food Image dataset:** https://huggingface.co/datasets/Codatta/MM-Food-100K
 
 
